@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> Country of capital </title>
+    </head>
+    <body><p>
+    <center>
+    <h1><em span style="color: brown;"> Capital of 10 Country</em></h1>
+    </center>
+   <blockquote>
+<h2><em span style="color: orangered;"> Today we will gone to lear the 10 countries Capital .  </em></h2>
+<h1><blockquote><li><span style="color: green;"> India </span></li></blockquote></h1>
+<h2><em> The capital of <span style="color: orange;"> India </span> is <span style="color: green;"> Delhi</span> . </em></h2>
+</blockquote>
+<center>
+    <img src="src/img/Red fort.jpg" alt=" No img " height="300" width="500">
+</center>
+<h1><blockquote><li><em><span style="color: blue;"> America/USA</span></em></li></blockquote></h1>
+<h2><blockquote> The capital of <span style="color: red;"> America</span> is <span style="color: blue;"> Washington </span> . </blockquote></h2>
+<center>
+    <img src="src/img/Washington.jpg" alt=" No img " height="300" width="550">
+</center>
+<h1><blockquote><em><li><span style="color: darkblue;"> Canada </span></li></em></h1><blockquote></h1>
+<h2><blockquote><em> The capital of <span style="color: tomato;"> Canada </span> is <span style="color: brown;"> Ottawa </span> . </em></blockquote></h2>
+<center>
+    <img src="src/img/Ottawa.jpg" alt="no img" height="300" width="500">
+</center>
+<blockquote><h1><em><li><span style="color: red;"> Japan</span></em></h1></li></blockquote>
+<blockquote><h2><em> The capital of <span style="color: orangered;"> Japan </span> is <span style="color: dodgerblue;"> Tokyo </span> . </em></h2></blockquote>
+<center>
+    <img src="src/img/tokyo.jpg" alt="no img" height="350" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: green;"> China </span></em></h1></li></blockquote>
+<blockquote><h2><em> The capital of <span style="color: blue;"> China</span> is <span style="color: orange;"> Beijing</span> . </em></h2></blockquote>
+<center>
+    <img src="src/img/beijing.jpg" alt="no img" height="300" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: darkblue;"> England </span></em></li></h1></blockquote>
+<blockquote><h2><em> The capital of <span style="color: blue;"> England</span> is <span style="color: red;"> London</span> . </em></h2></blockquote>
+<center>
+    <img src="src/img/london.jpg" alt="no img" height="300" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: royalblue;"> Australia</span></em></li></h1></blockquote>
+<blockquote><h2><em> The capital of <span style="color: royalblue;"> Australia</span> is <span style="color: orangered;"> Canberra </span> . </em></h2></blockquote>
+<center>
+    <img src="src/img/canberra.jpg" alt="no img" height="300" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: orangered;"> Zew land </span></em></li></h1></blockquote>
+<blockquote><h2><em> The capital of <span style="color: orangered;"> Zew land </span> is <span style="color: blue;"> Wellington </span> . </em></h2></blockquote>
+<center>
+    <img src="src/img/wellington.jpg" alt=" no img " height="300" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: brown;"> France </span></em></li></h1></blockquote>
+<blockquote><h2><em> The capital of <span style="color: brown;"> France </span> is <span style="color: darkblue;"> Paris </span> . </em></h2></blockquote>
+<center>
+<img src="src/img/paris.jpg" alt=" no img" height="300" width="500">
+</center>
+<blockquote><h1><li><em><span style="color: orangered;"> Italy </span></em></li></h1></blockquote>
+<blockquote><h2><em> The capital of <span style="color: orangered;"> Italy</span> is <span style="color: blue;"> Rome </span> . </em></h2></blockquote>
+<center>
+<img src="src/img/rome.jpg" alt=" no img " height="300" width="500">
+</p>
+</body>
+
+
+</body>
+</html>
